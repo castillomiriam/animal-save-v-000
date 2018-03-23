@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 @@media query only screen and (max-width: 1196px) {
   #bear div {
-    position: fixed;;
+    position: fixed;
     top: 100px;
     right: 800px;
   }
